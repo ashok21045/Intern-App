@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">internapp</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="published_format">Published: %1$s</string>
+    <string name="applied_by_format">Applied by: %1$s people</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
